@@ -1,4 +1,4 @@
-# Phishing Directory Paths List - Revised Edition
+# Phishing Directory Paths Indicators
 
 ## Overview
 This repository contains a revised and cleaned-up version of the phishing directory paths list, originally curated by Alan Neilan (GitHub username: ANeilan). The primary objective of this revision is to reduce false positives, making the list more effective and reliable for identifying phishing-related activities.
